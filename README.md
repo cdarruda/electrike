@@ -6,4 +6,31 @@ desta forma o hibrito electrike possuira recursos para se transformar em um dron
 A principio utilizaremos as seguintes tecnologias para a produção do electrike
 
 Celso de Arruda
-Aluno do 7 semestre de Engenharia Elétrica
+Aluno do 8 semestre de Engenharia Elétrica
+
+- Sistema mecânico
+- Controle automatico de motores
+- Retroalimentação
+Fontes de locomoção
+Humana - Pedais 
+Eletrica - Baterias
+Solar
+Eolica.
+
+
+Projetos Similares:
+
+Quadriciclo eletrico:
+
+https://www.youtube.com/watch?v=yRBCWIjdF8E
+
+https://www.youtube.com/watch?v=gbo5pVQ2iPQ
+
+https://www.youtube.com/watch?v=3FIznSec7BA
+
+
+Exemplos de construção de Chassis:
+https://www.youtube.com/watch?v=wth7xV5Gew0
+
+https://www.youtube.com/watch?v=Rj0WtuoqfXs
+
